@@ -1,0 +1,7 @@
+<?php
+
+class UELM_OpenWeatherAPIForecastCurrent extends UELM_OpenWeatherAPIForecastAbstract{
+
+	use UELM_OpenWeatherAPIForecastHasInlineTemperature, UELM_OpenWeatherAPIForecastHasSunTime;
+
+}

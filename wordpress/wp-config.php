@@ -26,7 +26,7 @@ define( 'DB_NAME', 'wordpress_skills' );
 define( 'DB_USER', 'ytechskills' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'ytechSk1ll$' );
+define( 'DB_PASSWORD', 'sCh00lw!deY3$t' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
