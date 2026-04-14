@@ -1,0 +1,4 @@
+# Ignore local development info files (case variants)
+devInfo.txt
+devinfo.txt
+
